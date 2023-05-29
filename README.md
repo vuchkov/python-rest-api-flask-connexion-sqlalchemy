@@ -2,7 +2,7 @@
 
 This repository holds the code for part three of the Real Python [Python REST APIs With Flask, Connexion, and SQLAlchemy](https://realpython.com/flask-connexion-rest-api-part-3) tutorial series.
 
-## Real Python Flask REST API – Part 3
+## Real Python Flask REST API
 
 You should first create a virtual environment:
 
@@ -37,10 +37,6 @@ Navigate into the `rp_flask_api/` folder:
 ```
 
 This will delete any existing database and create a new database named `people.db` that you can use with your project.
-
-## Author
-
-- **Philipp Acsany**, E-mail: [philipp@realpython.com](philipp@realpython.com)
 
 ## License
 
